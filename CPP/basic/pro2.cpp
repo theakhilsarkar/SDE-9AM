@@ -21,4 +21,3 @@ int main()
     }
 }
 
-// 30-50 - if,for,array...
