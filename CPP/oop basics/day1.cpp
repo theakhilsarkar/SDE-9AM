@@ -82,5 +82,4 @@ int main()
 // wap to create a Employee class and minimum 5 attributes, also create methods to set and get data.
 // wap to create a Student class and minimum 5 attributes, also create methods to set and get data.
 // wap to convert inches into feet using classa nd object
-// wap to convert seconds into hh:mm:ss using classa nd object.
-
+// wap to convert seconds into hh:mm:ss using class and object.
