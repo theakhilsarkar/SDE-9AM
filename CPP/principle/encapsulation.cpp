@@ -10,6 +10,7 @@
 // 'this' keyword - it used to represent global variable.
 // use this keyword while use global variable inside the class.
 
+
 // OOP
 // oop have main 4 fundamental principles.
 // 1. encapsulation
