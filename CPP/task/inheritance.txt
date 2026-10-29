@@ -1,0 +1,17 @@
+Q.1 Write a Program to find the sum of all three number’s cubes by implementing single-level inheritance: Class X->Class Y
+- Class X has the following members: a, b & c attributes in integer data type
+- Class Y has the following members: setData() and getData() methods
+
+Q.2 Write a Program to convert a given degree Celsius temperature into Fahrenheit and convert that Fahrenheit temperature into Kelvin by implementing multilevel inheritance: Class P -> Class Q -> Class R
+- Class P has the following members: temperature attribute in float
+- Class Q has the following members: toFehrenheit() method
+- Class R has the following members: toKelvin() method.
+
+Q.1 Write a Program to print the rate of interest of different banks using hierarchical inheritance:
+- Class RBI -> Class SBI
+- Class RBI -> Class BOB
+- Class RBI -> Class ICICI
+- inherit rate attribute and getROI() method in all child
+classes
+
+Q.2 Write a Program to demonstrate the use of a scope resolution operator to solve ambiguity errors.
