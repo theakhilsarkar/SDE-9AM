@@ -100,17 +100,15 @@ int main()
     // pointer variable = are used to store memory address of another variable.
     // pointer object = are used to store memory address of another object.
 
-    Student s[3]; // 8 byte save
+    Student s[4]; // 8 byte save
 
     s[0].setStudent(101, 17, 12, "kunjan", 7896541200, 78.36, 'C', true);
     s[1].setStudent(102, 16, 12, "raj", 8896541200, 68.36, 'D', true);
     s[2].setStudent(103, 15, 10, "mohan", 9896541200, 48.36, 'F', false);
 
-    Student *ptr = &s[0];
+    s[3] = s[1];
 
-    ptr->setStudent(102, 16, 12, "raj", 8896541200, 68.36, 'D', true);
-
-    s[0].getStudent();
+    s[3].getStudent();
 
     return 0;
 }
