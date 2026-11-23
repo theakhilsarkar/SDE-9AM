@@ -71,3 +71,8 @@ int main()
 
     return 0;
 }
+
+// test - time
+// cpp - written, theory
+
+// what is encapsulation explain with example.
